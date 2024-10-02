@@ -1,0 +1,35 @@
+Group 2 Scope Requirements
+
+Included in Scope:
+
+- Income Tracking: Ability to automatically or manually input and categorize various income sources.
+
+- Expense Tracking: Capability to record expenses (both manually or automatically), categorize them, and set budgets for different categories.
+
+- Savings Goals: Feature to create and track savings goals with progress indicators.
+
+- Financial Reports: Generation of detailed reports on income, expenses, savings, and spending habits.
+
+- Budget Analysis: Tools to analyze spending patterns, identify areas for cutting cost, and provide recommendations.
+
+- Integration with Financial Institutions: Optional integration with banks and credit unions to automatically import transaction data.
+
+- User Interface: Easy to use User Interface that should be easy to navigate and understand.
+
+*** The requirements included within the project scope are the main features and functionalities to be developed.
+
+
+
+Excluded from Scope:
+
+- Investment Tracking: Detailed tracking of investments (stocks, bonds, ETFs etc.).
+
+- Debt Management: Comprehensive tools for managing and paying off debts.
+
+- Tax Preparation: Assistance with tax filing or calculations.
+
+- Retirement Planning: Retirement savings estimation and planning
+
+- Mobile Application: Easy to use application for mobile devices (iOS and Android).
+
+*** The features excluded from the project scope can be included in future development.
