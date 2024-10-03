@@ -16,7 +16,7 @@ Included in Scope:
 
 - User Interface: Easy to use User Interface that should be easy to navigate and understand.
 
-*** The requirements included within the project scope are the main features and functionalities to be developed.
+The requirements included within the project scope are the main features and functionalities to be developed.
 
 
 
@@ -28,8 +28,8 @@ Excluded from Scope:
 
 - Tax Preparation: Assistance with tax filing or calculations.
 
-- Retirement Planning: Retirement savings estimation and planning
+- Retirement Planning: Retirement savings estimation and planning.
 
 - Mobile Application: Easy to use application for mobile devices (iOS and Android).
 
-*** The features excluded from the project scope can be included in future development.
+While these features are currently excluded from the scope, members may consider future implementations with other financial planning tools (such as retirement planning and tax preparation) to provide a more feature-rich application.
