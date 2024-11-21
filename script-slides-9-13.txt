@@ -1,0 +1,62 @@
+Slide 9: User Stories
+Our budgeting application is built around practical user stories that cover important financial management needs. 
+
+Income Tracking allows users to categorize various income sources such as salary, freelance work, or investments. This feature provides users with a clear overview of their income.
+
+Expense Tracking works similarly by categorizing expenses like groceries, rent, or utilities.
+
+The Savings Goals feature allows users to set specific financial objectives, such as saving for a vacation or building a rainy day fund.
+
+Financial Reports provide users with detailed insights into their financial health over time. These reports display income, expenses, and savings trends.
+
+Budget Analysis provides personalized budget tips based on spending patterns.
+
+Bank Integration imports a user's financial numbers and other information. This feature may help a user save time and can reduce the amount of info a user has to manually input, which can increase data accuracy.
+
+The User Interface is designed to be intuitive and user-friendly, which will help cater to users of all technical abilities.
+
+Slide 10: Use Cases - Tracking Income and Managing Expenses
+
+Tracking Income allows users to enter income details manually or import them automatically from linked bank accounts. Users can categorize income by source, which gives the app a more customized feel.
+
+Managing Expenses offers a similar functionality, allowing users to input expenses manually or automatically. Each expense can be categorized, enabling users to track where their money is being spent.
+
+The big difference between the two is that tracking income is for money earned, while managing expenses is for money spent.
+
+Slide 11: Use Cases - Setting Savings Goals, Generating Financial Reports, and Budget Analysis
+
+Setting Savings Goals will give users the ability to define specific financial goals, such as saving a certain amount within a set timeframe, for example, saving $1000 in one year. Visual progress indicators will keep users motivated and on track with their financial goals.
+
+The Financial Reports allow users to review the app's calculations, summarizing their income, expenses, and savings over specified periods, such as monthly, semi-annually, or yearly. These reports provide information of a user's financial trends, which can help them make better financial decisions.
+
+Budget Analysis can help users analyze their spending patterns by examining categories where they may be overspending. The app provides personalized recommendations for adjusting budgets and spending limits.
+
+Slide 12: Requirement Specifications - Business and User Requirements
+
+For our Requirements Specifications, we used the MOSCOW method to figure out the importance of each requirement.
+
+The Business Requirements focus on delivering an extensive financial overview to users. The application must provide detailed information of income, expenses, and savings in one place, making it easy to access and understand.
+
+The Goal Setting and Tracking functionality must allow users to set and track financial goals, which can help with a user's accountability and motivation.
+
+Spending Analysis Tools must help users identify areas where they can reduce costs or budget more effectively, promoting financial awareness and better spending practices.
+
+For User Requirements, features that emphasize simple data input and options for categorization are a must, either through manual entry or automated imports. 
+
+Customizable savings goals with visual progress tracking are also important, as it will help users stay motivated and committed to their financial objectives.
+
+Detailed Financial Reports must offer users a comprehensive view of their financial status. These requirements must implement trend analysis and informed decision-making regarding their finances.
+
+Slide 13: Requirement Specifications (cont.) - Functional and Non-Functional Requirements
+
+Functional Requirements must include importing transaction data from linked financial institutions to ensure data accuracy. 
+
+Budget tracking features with real-time alerts must notify users when they approach or exceed spending limits.
+
+For Spending Optimization, the application must make recommendations based on spending patterns. This will help users make informed decisions to adjust budgets effectively.
+
+For Non-Functional Requirements, it is important that the application will implement an intuitive and user-friendly interface that simplifies navigation and accessibility for all users. 
+
+Robust data security measures are also necessary, and must include encryption features. These security measures must also meet data protection standards. This will help secure private financial information.
+
+And finally, Mobile Accessibility will allow users to manage their finances conveniently from any mobile device, which can enhance flexibility and ensure accessibility of the application on the go.
